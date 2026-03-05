@@ -1,4 +1,4 @@
-### Getting Started
+### About
 
 This is a solution for this problem https://adventofcode.com/2024/day/2 written in node
 
